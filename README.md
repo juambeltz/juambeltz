@@ -7,6 +7,8 @@
 - User interface design
 - User experience
 - frontend development
+- Diseño de interacción
+- ... y otros
 ## :sparkles: Tecnologías que utilizo
 - html5
 - css3
