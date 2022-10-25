@@ -1,4 +1,4 @@
-# :zap: Proyecto SPA :zap:
+# :zap: Info :zap:
 - spa 
 
 ## 👋 Quien soy
