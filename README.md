@@ -1,15 +1,22 @@
 # :zap: Info :zap:
 
 ## 👋 Quien soy
-- Hi, I’m @juambeltz
+- Me llamo Juan Ignacio Juambeltz, soy desarrollador de interfaz de usuario web en Montevideo - Uruguay 
 ## 💞️ Mis intereses
 - Web development
 - User interface design
 - User experience
-## 🌱 Mis intereses
-- I’m currently learning ...
-## 👀 Mis intereses
-- I’m looking to collaborate on ...
+- frontend development
+## :sparkles: Tecnologías que utilizo
+- html5
+- css3
+- Sass / scss
+- gulp.js
+- javascript ES6
+- Bootstrap
+- BEM
+- Figma
+- ... y más
 ## 📫 Cómo contactarme
 - jijuambeltz@gmail.com
 
