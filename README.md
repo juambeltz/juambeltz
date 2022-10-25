@@ -1,5 +1,4 @@
 # :zap: Info :zap:
-- spa 
 
 ## 👋 Quien soy
 - Hi, I’m @juambeltz
