@@ -3,7 +3,8 @@
 ### 👋 Quién soy | Who I am | Quem sou 
 - Me llamo Juan Ignacio Juambeltz, soy desarrollador de interfaz de usuario web y vivo Montevideo - Uruguay 
 - My name is Juan Ignacio Juambeltz, I am a web user interface developer and I live in Montevideo - Uruguay
-- 🇪🇬: Meu nome é Juan Ignacio Juambeltz, sou desenvolvedor de interface web e moro em Montevidéu - Uruguai
+- Meu nome é Juan Ignacio Juambeltz, sou desenvolvedor de interface web e moro em Montevidéu - Uruguai
+
 ### 💞️ Mis intereses | My interests | Meus interesses
 - Web development
 - User interface design
@@ -12,6 +13,7 @@
 - Interaction design
 - Usability
 - ... y otros
+
 ### :sparkles: Tecnologías que utilizo | Technologies I use | 
 - html5
 - css3
