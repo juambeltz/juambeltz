@@ -18,7 +18,7 @@
 - html5
 - css3
 - Sass / scss
-- gulp.js
+- wordpress
 - javascript ES6
 - Bootstrap
 - BEM
